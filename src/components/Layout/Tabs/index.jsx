@@ -3,7 +3,7 @@ import Beranda from "../Beranda";
 import Tentang from "../Tentang";
 import Projek from "../Projek";
 import Kontak from "../Kontak";
-import { Tabs } from "../../ui/tabs";
+import { Tabs } from "../../Ui/tabs";
 
 export function TabsDemo() {
 
